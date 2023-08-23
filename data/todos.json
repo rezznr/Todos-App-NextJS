@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    {
+      "id": "0a424dad-3e81-4e62-a04d-73763609df13",
+      "text": "this is my first task "
+    },
+    {
+      "id": "93229752-8092-4d9c-ac46-5f2b9ac59bea",
+      "text": "Learn HTML"
+    },
+    {
+      "id": "6b190cf3-82cc-4f8b-b5f6-f2ae846ecf4f",
+      "text": "Learn CSS"
+    },
+    {
+      "id": "a614922a-4f36-4a62-8c48-b8e337d28504",
+      "text": "Learn JavaScript"
+    }
+  ]
+}
