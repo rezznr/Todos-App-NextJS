@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This App using json local server that run on [http://localhost:3001/task]
+
 ## Getting Started
 
 Run the development server:
