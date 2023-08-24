@@ -1,10 +1,6 @@
 {
   "tasks": [
     {
-      "id": "6b190cf3-82cc-4f8b-b5f6-f2ae846ecf4f",
-      "text": "Learn CSS"
-    },
-    {
       "id": "a614922a-4f36-4a62-8c48-b8e337d28504",
       "text": "Learn JavaScript"
     },
@@ -15,6 +11,10 @@
     {
       "id": "55856aa0-7c73-4c7c-9f9c-96189fdf7b47",
       "text": "NextJS"
+    },
+    {
+      "id": "b6b6c27e-6d9e-43d7-91f2-220715b9d50a",
+      "text": "menjadi fe dev"
     }
   ]
 }

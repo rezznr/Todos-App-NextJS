@@ -2,22 +2,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, Run the JSON server:
-
-```bash
-npm run json-server
-```
-
-Open [http://localhost:3001]
-
 Run the development server:
 
 ```bash
-npm run dev
+npm run start-both
 # or
-yarn dev
+yarn start-both
 # or
-pnpm dev
+pnpm start-both
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
