@@ -76,7 +76,10 @@ const Task: React.FC<TaskProps> = ({ task }) => {
             >
               YES
             </button>
-            <button className="btn btn-primary hover:bg-blue-400 text-xl">
+            <button
+              onClick={() => setOpenModalDelete(false)}
+              className="btn btn-primary hover:bg-blue-400 text-xl"
+            >
               NO
             </button>
           </div>

@@ -1,12 +1,8 @@
 {
   "tasks": [
     {
-      "id": "a614922a-4f36-4a62-8c48-b8e337d28504",
-      "text": "Learn JavaScript"
-    },
-    {
       "id": "b5df507c-2086-496e-a0ae-fc2a392ce067",
-      "text": "Learn TypeScript"
+      "text": "Learn TypeScript kann"
     },
     {
       "id": "55856aa0-7c73-4c7c-9f9c-96189fdf7b47",
@@ -15,6 +11,14 @@
     {
       "id": "b6b6c27e-6d9e-43d7-91f2-220715b9d50a",
       "text": "menjadi fe dev"
+    },
+    {
+      "id": "c0c667ae-b2fc-4017-9f47-a65b88b96526",
+      "text": "Belajar Yaml"
+    },
+    {
+      "id": "67c003d7-a747-4730-b903-f2a3e00b3285",
+      "text": "Belajar JSON"
     }
   ]
 }
